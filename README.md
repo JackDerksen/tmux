@@ -1,5 +1,5 @@
 # tmux_config
-My Catpuccin-themed Tmux config, inspired by Dreams Of Code and DevOps Toolbox.
+My Catppuccin-themed Tmux config, inspired by Dreams Of Code and DevOps Toolbox.
 
 Requires tpm for packages, and a nerd font if you want icons.
 
