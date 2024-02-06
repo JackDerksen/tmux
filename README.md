@@ -11,5 +11,4 @@ To install on Linux, place tmux.conf in ~/.config/tmux/ , then install packages 
 - `<leader> + r` to source/refresh the Tmux config file
 - `<leader> + -` to split window horizontally
 - `<leader> + |` to split window vertically
-- `alt + h/j/k/l` to switch windows
 - Vim style highlighting
