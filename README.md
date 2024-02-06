@@ -5,7 +5,7 @@ Requires tpm for packages, and a nerd font if you want icons. There are two styl
 
 The leader key is set to `ctrl + space`, the only correct option.
 
-To install on Linux, place tmux.conf in ~/.config/tmux/ , then install packages via npm with `<leader> + i`.
+To install on Linux, place tmux.conf in ~/.config/tmux/ , then install packages via tpm with `<leader> + i`.
 
 ### Keymaps:
 - `<leader> + r` to source/refresh the Tmux config file
