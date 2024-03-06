@@ -1,10 +1,9 @@
 # tmux_config
 
 My custom Catppuccin-themed Tmux config, designed to pair perfectly with my [Neovim config](https://github.com/JackDerksen/viis-lazyvim). Inspired by Dreams Of Code and DevOps Toolbox.
-Requires tpm for packages, and a nerd font if you want icons. There are two styles in the tmux.conf file, un-comment whichever you prefer!
+Requires tpm for packages, and a [nerd font](https://www.nerdfonts.com/) if you want icons. 
 
 <img width="1919" alt="Tmux 3" src="https://github.com/JackDerksen/tmux/assets/78124447/9d941d05-b1ab-4ec2-9597-3f56627cb579">
-
 
 The leader key is set to `ctrl + space`, the only correct option.
 
@@ -14,6 +13,8 @@ To install on Linux, place tmux.conf in ~/.config/tmux/ , then install packages 
 - `<leader> + r` to source/refresh the Tmux config file
 - `<leader> + -` to split window horizontally
 - `<leader> + |` to split window vertically
+
+### There are two styles in the tmux.conf file, un-comment whichever you prefer!
 
 ### Style 1 (simple):
 <img width="1919" alt="Tmux 1" src="https://github.com/JackDerksen/tmux/assets/78124447/d53cf786-e9c3-4e8a-b5ae-d56b6579bd85">
