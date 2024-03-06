@@ -5,7 +5,8 @@ Requires tpm for packages, and a [nerd font](https://www.nerdfonts.com/) if you 
 
 <img width="1919" alt="Tmux 3" src="https://github.com/JackDerksen/tmux/assets/78124447/9d941d05-b1ab-4ec2-9597-3f56627cb579">
 
-The leader key is set to `ctrl + space`, the only correct option.
+
+The leader key is set to `ctrl + space`, the only correct option. This config also has transparent background colours on the status bar, so it should look sexy with any terminal background colour you want to use.
 
 To install on Linux, place tmux.conf in ~/.config/tmux/ , then install packages via tpm with `<leader> + i`.
 
