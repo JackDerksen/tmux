@@ -1,6 +1,6 @@
 # tmux_config
 
-## This repository is basically deprecated, and no longer accurately represents the config I use. Feel free to keep using it, of course, but the more updated version can be found at [JackDerksen/viis-dev-kit](https://github.com/JackDerksen/viis-nvim)!
+## This repository is basically deprecated, and no longer accurately represents the config I use. Feel free to keep using it, of course, but the more updated version can be found at [JackDerksen/viis-dev-kit](https://github.com/JackDerksen/viis-dev-kit)!
 
 ---
 
