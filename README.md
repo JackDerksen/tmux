@@ -1,5 +1,9 @@
 # tmux_config
 
+## This repository is basically deprecated, and no longer accurately represents the config I use. Feel free to keep using it, of course, but the more updated version can be found at [JackDerksen/viis-dev-kit](https://github.com/JackDerksen/viis-nvim)!
+
+---
+
 My custom Catppuccin-themed Tmux config, designed to pair perfectly with my [Neovim config](https://github.com/JackDerksen/viis-lazyvim). Inspired by Dreams Of Code and DevOps Toolbox.
 Requires tpm for packages, and a [nerd font](https://www.nerdfonts.com/) if you want icons. 
 
