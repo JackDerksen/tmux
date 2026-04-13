@@ -1,6 +1,6 @@
 # tmux_config
 
-## This repository is basically deprecated, and no longer accurately represents the config I use (see [my current dev-env](https://github.com/JackDerksen/dev-env)). Feel free to keep using it, of course!
+## This repository is basically deprecated, and no longer accurately represents the config I use (see [my current dev-env](https://github.com/JackDerksen/macos-dev-env)). Feel free to keep using it, of course!
 
 ---
 
